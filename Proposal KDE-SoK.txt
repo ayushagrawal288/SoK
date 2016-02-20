@@ -1,0 +1,22 @@
+Hello,
+
+I want to participate in this years Season of KDE under GCompris.
+I have listed few of my ideas for new activities in GCompris which I will be doing if i got selected in SoK program.I request the GCompris community to please review my ideas and provide me with relevant feedback.
+
+1. Monuments: I will take on my work which I presented i my demo activity by adding new levels & improving the current ones. Some of my ideas for new levels are like- Adding levels consisting of monuments from different countries within a continent, & Monuments of some specific countries.
+Here is the link of my PR of demo activity:
+https://github.com/bdoin/GCompris-qt/pull/91
+
+2. Object Classification: The user will be presented to do a classification between real-life sizes of two or more objects.
+and Classification of their shapes on the basis of their Areas and Volumes. It will be like user is presented with a car and a ball and they have to specify which one has a greater real-life size while their on screen sizes are going to be same. Using this we can use two or more objects and ask them to compare and arrange in increasing order of their sizes. And i can add a few levels comparing their areas and volume of object for given sizes like user is given with a set of cubes with varying image size and they have to arrange them in increasing order of volumes.
+Taken from Ideas for activities page.
+
+3. Prime/Composite: User will be presented with two buckets on the screen labeled Prime and Composite respectively. And with numbers on the other part of screen which they have to drag n drop in the respective baskets depending on whether the number is prime or composite. With every correct basket user will be awarded with positive points and with wrong basket some points will be detected (in further levels). Levels will be like, in first there are 2 no's 1 pirme and other composite, and so on we can gradually increase the no of numbers with increasing levels.
+
+I am an undergraduate student in my sophomore year of B.Tech in Computer Science from The LNM Institute of Information Technology(LNMIIT).
+Up-till now I have contributed on a bug on Marketplace, Mozilla. I am looking for starting contributions in KDE. And GCompris can help me do that.
+Here is the link to my bug.
+https://github.com/mozilla/fireplace/pull/1467
+
+Thank You
+Ayush Agrawal
